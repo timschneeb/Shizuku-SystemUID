@@ -1,3 +1,6 @@
+# Superseded by https://github.com/timschneeb/ShizukuExt-SystemUID
+______________
+
 # Shizuku
 
 ## Background
